@@ -1,0 +1,53 @@
+*{
+    background: black;
+}
+.text-center{
+    text-align: center;
+    color: aliceblue;
+    font-family: "Briem Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 38px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    padding-top: 30px;
+}
+.btn{
+    padding: 22px;
+    margin: 0 3px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    color: aliceblue;
+    background: #262525;
+    font-size: 22px;
+    height: 62px;
+    width: 62px;
+}
+.row{
+    margin: 8px 0;
+}
+.c{
+    color: red;
+}
+.g{
+    color: rgb(2, 200, 2);
+}
+.l{
+    background:rgb(2, 200, 2) ;
+    color: black;
+}
+.text .input{
+    padding: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+   color: white;
+   border: 1px solid white;
+   border-radius: 7px;
+   font-size: 20px;
+}
